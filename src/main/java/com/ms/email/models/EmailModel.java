@@ -2,6 +2,8 @@ package com.ms.email.models;
 
 import java.time.LocalDateTime;
 
+import com.ms.email.enums.StatusEmail;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
